@@ -30,12 +30,15 @@
 <style scoped lang="scss">
 .header{
     width: 100%;
-    display:flex;
+    display: flex;
+    background-color:#ffd700;
     .leftheader{
         width: 50%;
+        display: flex;
     }
     .rightheader{
         width: 50%;
+        display:flex;
     }
 }
 
