@@ -29,9 +29,10 @@
 
 <style scoped lang="scss">
 .header{
-    width: 100%;
+    width: 1200px;
     display: flex;
     background-color:#ffd700;
+    height:93px;
     .leftheader{
         width: 50%;
         display: flex;
@@ -39,6 +40,7 @@
     .rightheader{
         width: 50%;
         display:flex;
+
     }
 }
 
