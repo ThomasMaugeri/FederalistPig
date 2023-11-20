@@ -16,7 +16,7 @@
   <mainimg/>
   <news/>
   <shortcut/>
-  <footer/>
+  <footer />
 
 
  </div>
