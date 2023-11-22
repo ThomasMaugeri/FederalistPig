@@ -13,7 +13,7 @@
 
      <div class="rightheader">
         <ul>
-            <li class="menus"><a href="">menu</a></li>
+            <li ><a href="" class="menus">menu</a></li>
             <li class="package"><a href="">catering</a></li>
             <li class="zone"><a href="">locations</a></li>
             <li class="product"><a href="">bbq box</a></li>
@@ -55,6 +55,8 @@
                 text-decoration: none;
                 color:black;
             }
+
+            
         }
     }
 }

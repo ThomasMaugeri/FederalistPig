@@ -37,7 +37,7 @@
     margin: 0 auto;
     display:flex;
     padding-top:70px;
-    
+    padding: 10px;
     img{
         min-width:300px;
         max-width: 520px;
@@ -48,12 +48,34 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        span{
+            border: 2px solid black;
+            padding: 5px;
+        }
+        span:hover{
+            background-color: black;
+            color: gold;
+            transition: all .2s linear;
+        }
+
     }
     .rightcard{
         width: 50%;
         display: flex;
         flex-direction: column;
         align-items: center;
+        
+        .textrightcard{
+            span{
+            border: 2px solid black;
+            padding: 5px;
+         }
+            span:hover{
+                background-color: black;
+                color: gold;
+                transition: all .2s linear;
+            }
+        }
     }
 }
 </style>
